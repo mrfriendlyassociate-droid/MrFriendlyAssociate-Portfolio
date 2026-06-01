@@ -1,4 +1,4 @@
-# Mr. Friendly Portfolio
+# Mr. Friendly Associate Portfolio
 
 A modern freelance portfolio website showcasing web design and development services.
 
