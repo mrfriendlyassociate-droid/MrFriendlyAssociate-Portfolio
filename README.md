@@ -12,7 +12,7 @@ A modern freelance portfolio website showcasing web design and development servi
 - Contact section
 
 ## Live Demo
-https://mrfriendlyassociate.github.io/mrfriendly-portfolio/
+https://mrfriendlyassociate-droid.github.io/mrfriendly-portfolio/
 
 ## Technologies Used
 - HTML5
