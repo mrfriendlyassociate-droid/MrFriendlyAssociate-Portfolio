@@ -1,4 +1,4 @@
-# Mr. Friendly Associate Portfolio
+# Mr Friendly Associate Portfolio
 
 A modern freelance portfolio website showcasing web design and development services.
 
@@ -12,7 +12,7 @@ A modern freelance portfolio website showcasing web design and development servi
 - Contact section
 
 ## Live Demo
-https://mrfriendlyassociate-droid.github.io/MrFriendlyAssociate-Portfolio/
+https://project-v0t78.vercel.app/
 
 ## Technologies Used
 - HTML5
